@@ -7,5 +7,6 @@ Subscription to apple music was getting completed, wanted to take a backup of al
 ### Solution :
  - Take screenshot of all the music
  - Use opencv,tesseract and EAST text recognition to extract the text from the images
+ - Recognition via tesseract : able to get song names
  - Use the extracted text to find the songs from youtube using pytube
  - Download the mp3 versions of the music from youtube using pytube
