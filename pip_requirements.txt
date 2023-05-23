@@ -3,4 +3,4 @@ imutils==0.5.3 # resize and image based functions
 opencv-python==4.2.0.34 # for reading the image and 
 pytesseract==0.3.4 # for the text recognition
 pytube4==0.1.1 # to download the youtube videos using the youtube 
-requests==2.24.0 # for the youtube search 
+requests==2.31.0 # for the youtube search 
